@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5b89565f503ed3744e196708ac925302bf8e16a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5ecf8f0c03abfa8ce9479e0704233bf1f8524f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_09ba9e74a8e35a2e9dcebe3d578aa8c304d69acd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_41b95c583cd8f6d8ed7a4d90c0d36b5396820335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0693018f5803ebf28551097fb857524ab92af641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_a23db5ad5999232ba754ebbe50b609022589a5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c63d307c3ecbca7823aa749099ef8067b013917d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_47c55ab5516d8570ccee450f58bc2050d9cad2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_dddc24e1de7dbd969a65675375a5ac8da281b306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_845254c40ba6dbf8cefa45e1bb591fc811ddda87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6a488c2ebdcd08001d5325a717e04f79e11cdcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/kikeassistant/VoiceModule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5eab08616cff22fe9287b83307fb069c5d48d93a">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/kikeassistant-VoiceModule-unspecified_5f1aed9f5b79bce1ac85aead4077f673eca80fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_1a130dff5138cff4b8a984dd158f7853ca4d009a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6e0c67547c95630b8ecd444db7cf6a47617f2c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a807987c3d0541af68843769608c7088c6335258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f9c5333ae796d5e2fdbac1d139d5dc0569e8a61d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ab0acd015e6c645ec5bda69ae6eb6fd5786b7826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/kikeassistant/react-native-tts/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3ea098039a4993218d5da8a8defb6820a9681a8a">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/kikeassistant-react-native-tts-unspecified_ba33117c5945ab7f607263bf4d9655fcb1e9c59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d5242368fed4402fff436e709a5e1f9e79b67225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3c6815151b087d629065616cb2d9a34d5624ebbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2d968a3d6cbd26ad8e2773dcb8d2a179af47f130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_035fd37ccb767d854dbbe3a903fc552e52ced467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_96600f80f13bdfda56ed1a703da7aa0d64bb753a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_028f394dd9a428dbf6c4d2d93d4a06f0da55a55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mikeltejerodelafuente/Desktop/WebDev/Proyectos /kike-assistant/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_971b0c82bd87089633970efc3fcf8a7a817807b8.jar" />
+    </item>
+
+</items>
